@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #DEAC80;
+}
+div{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.portada img{
+  height: 500px;
+}
+.titulo p{
+  font-size: 50px;
+  font-family: 'Arial Black';
+  color: #F5F5F5;
+}
+.enlace p{
+  font-size: 20px;
+  font-family: 'Comic Sans MS';
+  color: #F5F5F5;
+}
+.subtitulo p{
+  font-size: 20px;
+  font-family: 'Bauhaus 93';
+  color: #F5F5F5;
+}
+.explicacion p{
+  font-size: 20px;
+  font-family: 'Berlin Sans FB';
+  color: #F5F5F5;
+  text-align: justify;
+  margin: 20px;
+}
+.explicacion img{
+  height: 300px;
+}
